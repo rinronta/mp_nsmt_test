@@ -10,5 +10,5 @@ NPO法人MusicPlanzテキストのWebページ化プロジェクトに用いる�
 Copyright 2016 特定非営利活動法人ミュージックプランツ
 
 # copyright
-Quote, reprinting, saling and any other secondary use of the files in this repository are strictly prohibited without permission by author.
+Quote, reprinting, sales and any other secondary use of the files in this repository are strictly prohibited without permission by author.
 Copyright NPO MusicPlanz
